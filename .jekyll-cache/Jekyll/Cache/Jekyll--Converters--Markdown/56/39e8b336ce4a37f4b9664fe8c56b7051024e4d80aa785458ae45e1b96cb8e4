@@ -1,0 +1,5 @@
+I"<h1 id="introduction">Introduction</h1>
+<h2 id="abstract">Abstract</h2>
+<p>This is the specification for Catnet,  an open-source project, with the primary implementation written by Milo Banks and Eli Hatton at ZincSoft (available here).
+Catnet is similar to Tor, otherwise known as The Onion Router, with several key differences. Firstly, Catnet provides users with open source and decentralized web browsing and internet usage, without the worry of dangerous threats. Here, we explain the critical differences between Catnet and Tor.</p>
+:ET
